@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Solution_finding_firstIndex_of_a_number_in_an_array
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input\ x
+comment2.target=int\ firstIndex(int[],\ int)
+numComments=3

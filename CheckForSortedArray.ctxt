@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CheckForSortedArray
+comment1.params=input
+comment1.target=boolean\ checkSorted(int[])
+comment2.params=input
+comment2.target=boolean\ checkSorted_2(int[])
+comment3.params=input\ startIndex
+comment3.target=boolean\ checkSortedBetter(int[],\ int)
+comment4.params=input
+comment4.target=boolean\ checkSortedBetter(int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

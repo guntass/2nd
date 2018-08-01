@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Solution_check_array_for_number
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input\ x
+comment2.target=boolean\ checkNumber(int[],\ int)
+numComments=3
